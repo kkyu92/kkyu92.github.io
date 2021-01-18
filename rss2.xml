@@ -15,33 +15,14 @@
     <atom:link href="http://kkyu92.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>블로그입니다.</description>
-    <pubDate>Mon, 11 Jan 2021 08:10:03 GMT</pubDate>
+    <pubDate>Mon, 18 Jan 2021 02:06:05 GMT</pubDate>
     <generator>http://hexo.io/</generator>
-    
-    <item>
-      <title>titleText</title>
-      <link>http://kkyu92.github.io/2021/01/11/newPost/</link>
-      <guid>http://kkyu92.github.io/2021/01/11/newPost/</guid>
-      <pubDate>Mon, 11 Jan 2021 08:06:32 GMT</pubDate>
-      
-      
-      
-      
-      
-      <category domain="http://kkyu92.github.io/tags/post/">post</category>
-      
-      <category domain="http://kkyu92.github.io/tags/new/">new</category>
-      
-      
-      <comments>http://kkyu92.github.io/2021/01/11/newPost/#disqus_thread</comments>
-      
-    </item>
     
     <item>
       <title>Hello World</title>
       <link>http://kkyu92.github.io/2021/01/11/hello-world/</link>
       <guid>http://kkyu92.github.io/2021/01/11/hello-world/</guid>
-      <pubDate>Mon, 11 Jan 2021 07:32:22 GMT</pubDate>
+      <pubDate>Mon, 11 Jan 2021 08:06:32 GMT</pubDate>
       
         
         
@@ -54,8 +35,38 @@
       
       
       
+      <category domain="http://kkyu92.github.io/tags/post/">post</category>
+      
+      <category domain="http://kkyu92.github.io/tags/new/">new</category>
+      
       
       <comments>http://kkyu92.github.io/2021/01/11/hello-world/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>titleText</title>
+      <link>http://kkyu92.github.io/2021/01/11/newPost/</link>
+      <guid>http://kkyu92.github.io/2021/01/11/newPost/</guid>
+      <pubDate>Mon, 11 Jan 2021 08:06:32 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;New-Post-Test&quot;&gt;&lt;a href=&quot;#New-Post-Test&quot; class=&quot;headerlink&quot; title=&quot;New Post Test&quot;&gt;&lt;/a&gt;New Post Test&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h2 id="New-Post-Test"><a href="#New-Post-Test" class="headerlink" title="New Post Test"></a>New Post Test</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><h3 id="Create-a-new-post-1"><a href="#Create-a-new-post-1" class="headerlink" title="Create a new post"></a>Create a new post</h3><h3 id="Create-a-new-post-2"><a href="#Create-a-new-post-2" class="headerlink" title="Create a new post"></a>Create a new post</h3><h2 id="New-Post-Test-2"><a href="#New-Post-Test-2" class="headerlink" title="New Post Test 2"></a>New Post Test 2</h2><h3 id="Create-a-new-post-3"><a href="#Create-a-new-post-3" class="headerlink" title="Create a new post"></a>Create a new post</h3><h3 id="Create-a-new-post-4"><a href="#Create-a-new-post-4" class="headerlink" title="Create a new post"></a>Create a new post</h3><h3 id="Create-a-new-post-5"><a href="#Create-a-new-post-5" class="headerlink" title="Create a new post"></a>Create a new post</h3>]]></content:encoded>
+      
+      
+      
+      <category domain="http://kkyu92.github.io/tags/post/">post</category>
+      
+      <category domain="http://kkyu92.github.io/tags/new/">new</category>
+      
+      
+      <comments>http://kkyu92.github.io/2021/01/11/newPost/#disqus_thread</comments>
       
     </item>
     
