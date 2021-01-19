@@ -52,13 +52,18 @@
       
         
         
-      <description>&lt;h2 id=&quot;New-Post-Test&quot;&gt;&lt;a href=&quot;#New-Post-Test&quot; class=&quot;headerlink&quot; title=&quot;New Post Test&quot;&gt;&lt;/a&gt;New Post Test&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a</description>
+      <description>&lt;h2 id=&quot;New-Post-Test&quot;&gt;&lt;a href=&quot;#New-Post-Test&quot; class=&quot;headerlink&quot; title=&quot;New Post Test&quot;&gt;&lt;/a&gt;New Post Test&lt;/h2&gt;&lt;p&gt;Info.plist&lt;/p&gt;
+&lt;h1 id=&quot;UIU</description>
         
       
       
       
-      <content:encoded><![CDATA[<h2 id="New-Post-Test"><a href="#New-Post-Test" class="headerlink" title="New Post Test"></a>New Post Test</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><h3 id="Create-a-new-post-1"><a href="#Create-a-new-post-1" class="headerlink" title="Create a new post"></a>Create a new post</h3><h3 id="Create-a-new-post-2"><a href="#Create-a-new-post-2" class="headerlink" title="Create a new post"></a>Create a new post</h3><h2 id="New-Post-Test-2"><a href="#New-Post-Test-2" class="headerlink" title="New Post Test 2"></a>New Post Test 2</h2><h3 id="Create-a-new-post-3"><a href="#Create-a-new-post-3" class="headerlink" title="Create a new post"></a>Create a new post</h3><h3 id="Create-a-new-post-4"><a href="#Create-a-new-post-4" class="headerlink" title="Create a new post"></a>Create a new post</h3><h3 id="Create-a-new-post-5"><a href="#Create-a-new-post-5" class="headerlink" title="Create a new post"></a>Create a new post</h3>]]></content:encoded>
+      <content:encoded><![CDATA[<h2 id="New-Post-Test"><a href="#New-Post-Test" class="headerlink" title="New Post Test"></a>New Post Test</h2><p>Info.plist</p><h1 id="UIUserInterfaceStyle"><a href="#UIUserInterfaceStyle" class="headerlink" title="UIUserInterfaceStyle"></a><key>UIUserInterfaceStyle</key></h1><h1 id="Light"><a href="#Light" class="headerlink" title="Light"></a><string>Light</string></h1><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><h3 id="Create-a-new-post-1"><a href="#Create-a-new-post-1" class="headerlink" title="Create a new post"></a>Create a new post</h3><h3 id="Create-a-new-post-2"><a href="#Create-a-new-post-2" class="headerlink" title="Create a new post"></a>Create a new post</h3><h2 id="New-Post-Test-2"><a href="#New-Post-Test-2" class="headerlink" title="New Post Test 2"></a>New Post Test 2</h2><p>AppDelegate.m</p><h1 id="datetimepicker-darkmode"><a href="#datetimepicker-darkmode" class="headerlink" title="datetimepicker darkmode"></a>datetimepicker darkmode</h1><p>if (@available(iOS 13, *)) {<br>self.window.overrideUserInterfaceStyle = UIUserInterfaceStyleLight;<br>}</p><h3 id="Create-a-new-post-3"><a href="#Create-a-new-post-3" class="headerlink" title="Create a new post"></a>Create a new post</h3><h3 id="Create-a-new-post-4"><a href="#Create-a-new-post-4" class="headerlink" title="Create a new post"></a>Create a new post</h3><h3 id="Create-a-new-post-5"><a href="#Create-a-new-post-5" class="headerlink" title="Create a new post"></a>Create a new post</h3>]]></content:encoded>
       
+      
+      <category domain="http://kkyu92.github.io/categories/Git/">Git</category>
+      
+      <category domain="http://kkyu92.github.io/categories/Git/Hexo/">Hexo</category>
       
       
       <category domain="http://kkyu92.github.io/tags/post/">post</category>
