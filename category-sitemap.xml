@@ -9,22 +9,29 @@
 
 
     <url>
+        <loc>http://kkyu92.github.io/categories/React-Native/e-log/</loc>
+        <lastmod>2021-01-28T08:15:21.141Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://kkyu92.github.io/categories/React-Native/</loc>
+        <lastmod>2021-01-28T08:15:21.141Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://kkyu92.github.io/categories/Git/Markdown/</loc>
-        <lastmod>2021-01-26T05:34:13.047Z</lastmod>
+        <lastmod>2021-01-28T07:30:59.035Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://kkyu92.github.io/categories/Git/</loc>
-        <lastmod>2021-01-26T05:34:13.047Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://kkyu92.github.io/categories/Git/Hexo/</loc>
-        <lastmod>2021-01-19T03:29:03.517Z</lastmod>
+        <lastmod>2021-01-28T07:30:59.035Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
